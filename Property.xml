@@ -42,3 +42,5 @@
     <lightweight>true</lightweight>
   </definition>
   <triggers/>
+<disabled>false</disabled>
+</flow-definition>
